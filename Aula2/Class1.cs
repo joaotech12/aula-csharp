@@ -28,6 +28,13 @@ namespace ConsoleApp1.Aula2
             int numero8 = 5;
             Console.WriteLine(numero7 / numero8);
 
+            int Base = 2;
+            int altura = 5;
+            Console.WriteLine(Base * altura);
+             
+        int Farenheit = 100;
+            int Celsius= 28;
+            Console.WriteLine((Farenheit - 32) * 5 / 9);
 
         }
     }  
