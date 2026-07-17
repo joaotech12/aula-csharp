@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp1.Aula1
 {
-    internal class Class1
+    internal class conversor 
     {
     }
 }

@@ -4,9 +4,9 @@ using System.Text;
 
 namespace ConsoleApp1.Aula2
 {
-    internal class Class1
+    internal class conversor
     {
-        public static void Main()
+        public static void Main2()
         {
            
 
